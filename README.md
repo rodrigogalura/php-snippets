@@ -7,18 +7,6 @@ A complete snippet collection for **PHP 7.0 → 8.3** features.
 - Organized by version (`PHP7/`, `PHP8/`)
 - Easy tab triggers for quick coding
 
-## 📂 Structure
-php-snippets/
-├── PHP70/
-├── PHP71/
-├── PHP72/
-├── PHP73/
-├── PHP74/
-├── PHP80/
-├── PHP81/
-├── PHP82/
-├── PHP83/
-
 ## ⚡ Usage
 1. Clone or copy this repo into your Sublime `Packages` folder.
    - Windows: `%APPDATA%\Sublime Text\Packages`
