@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+function ${1:add}(${2:int} \$a, ${3:int} \$b): ${4:int} {
+    return \$a + \$b;
+}
+]]></content>
+    <tabTrigger>stype</tabTrigger>
+    <description>PHP 7.0 Scalar Type Declarations</description>
+    <scope>embedding.php, text.html.php, meta.embedded.php, source.php.embedded.html, meta.class.php, meta.block.php</scope>
+</snippet>

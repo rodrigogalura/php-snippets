@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+\$${1:obj} = new class {
+    public function ${2:method}(${3:string \$msg}) {
+        echo \$msg;
+    }
+};
+]]></content>
+    <tabTrigger>anon</tabTrigger>
+    <description>PHP 7.0 Anonymous Class</description>
+    <scope>embedding.php, text.html.php, meta.embedded.php, source.php.embedded.html, meta.class.php, meta.block.php</scope>
+</snippet>
