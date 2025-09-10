@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+class ${1:User} {
+    public int \$${2:id};
+    public string \$${3:name};
+}
+]]></content>
+    <tabTrigger>tprop</tabTrigger>
+    <scope>source.php</scope>
+    <description>PHP 7.4 Typed Properties</description>
+</snippet>

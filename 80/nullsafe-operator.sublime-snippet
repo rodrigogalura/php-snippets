@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$${1:username} = \$${2:user}?->${3:profile}?->${4:username};
+]]></content>
+    <tabTrigger>?-></tabTrigger>
+    <scope>source.php</scope>
+    <description>PHP 8.0 Nullsafe Operator</description>
+</snippet>

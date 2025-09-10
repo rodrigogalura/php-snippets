@@ -8,6 +8,6 @@
 expect(${1:true})->${2:toBe}($3);$0
 ]]></content>
 <tabTrigger>pest-expect</tabTrigger>
-<description>Pest: expect</description>
+<description>PestPHP: expect</description>
 <scope>embedding.php, text.html.php, meta.embedded.php, source.php.embedded.html, meta.function-call.arguments.php, meta.group.php, meta.function.php, meta.block.php, meta.function-call.arguments.php, meta.group.php, meta.function.php, meta.block.php, meta.function-call.identifier.php, meta.function-call.identifier.php, variable.function.php</scope>
 </snippet>

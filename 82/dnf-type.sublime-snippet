@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+function ${1:process}((${2:A}&${3:B})|${4:C} \$${5:value}) {}
+]]></content>
+    <tabTrigger>dnf</tabTrigger>
+    <scope>source.php</scope>
+    <description>PHP 8.2 Disjunctive Normal Form Types</description>
+</snippet>

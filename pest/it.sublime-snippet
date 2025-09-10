@@ -17,6 +17,6 @@ ${1:it}('$2', function () {
 });$0
 ]]></content>
 <tabTrigger>pest-it</tabTrigger>
-<description>Pest: it</description>
+<description>PestPHP: it</description>
 <scope>embedding.php, text.html.php, meta.embedded.php, source.php.embedded.html, meta.function-call.arguments.php, meta.group.php, meta.function.php, meta.block.php, meta.function-call.identifier.php, variable.function.php</scope>
 </snippet>

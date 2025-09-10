@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+class ${1:Foo} {
+    public const string ${2:BAR} = '${3:bar}';
+}
+]]></content>
+    <tabTrigger>tconst</tabTrigger>
+    <scope>source.php</scope>
+    <description>PHP 8.3 Typed Class Constants</description>
+</snippet>

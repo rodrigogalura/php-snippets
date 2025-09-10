@@ -10,6 +10,6 @@ beforeEach(function() {
 });
 ]]></content>
 <tabTrigger>pest-beforeEach</tabTrigger>
-<description>Pest: beforeEach</description>
+<description>PestPHP: beforeEach</description>
 <scope>embedding.php, text.html.php, meta.embedded.php, source.php.embedded.html, meta.function-call.arguments.php, meta.group.php, meta.function.php, meta.block.php, meta.function-call.identifier.php, variable.function.php</scope>
 </snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+function ${1:isEnabled}(): true {
+    return true;
+}
+]]></content>
+    <tabTrigger>tfntype</tabTrigger>
+    <scope>source.php</scope>
+    <description>PHP 8.2 true/false/null as standalone types</description>
+</snippet>

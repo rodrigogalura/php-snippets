@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+function ${1:logMessage}(string \$msg): void {
+    echo \$msg;
+}
+]]></content>
+    <tabTrigger>void</tabTrigger>
+    <scope>embedding.php, text.html.php, meta.embedded.php, source.php.embedded.html, meta.function-call.arguments.php, meta.group.php, meta.function.php, meta.block.php, meta.function-call.arguments.php, meta.group.php, meta.function.php, meta.block.php, meta.function-call.identifier.php, variable.function.php</scope>
+    <description>PHP 7.1: Void Return Type</description>
+</snippet>

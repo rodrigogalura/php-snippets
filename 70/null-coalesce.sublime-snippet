@@ -3,6 +3,6 @@
 \$${1:username} = \$_GET['${2:user}'] ?? '${3:guest}';
 ]]></content>
     <tabTrigger>??</tabTrigger>
-    <description>PHP 7.0 Null Coalescing Operator</description>
     <scope>embedding.php, text.html.php, meta.embedded.php, source.php.embedded.html, meta.class.php, meta.block.php</scope>
+    <description>PHP 7.0 Null Coalescing Operator</description>
 </snippet>

@@ -7,6 +7,6 @@
 };
 ]]></content>
     <tabTrigger>anon</tabTrigger>
-    <description>PHP 7.0 Anonymous Class</description>
     <scope>embedding.php, text.html.php, meta.embedded.php, source.php.embedded.html, meta.class.php, meta.block.php</scope>
+    <description>PHP 7.0 Anonymous Class</description>
 </snippet>

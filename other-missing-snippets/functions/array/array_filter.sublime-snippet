@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+array_filter(\$array, function (\$value, \$key) {
+    return ${2:// condition};
+}${1:, ${3|0,ARRAY_FILTER_USE_KEY,ARRAY_FILTER_USE_BOTH|}});
+]]></content>
+    <tabTrigger>array_filter</tabTrigger>
+    <scope>embedding.php, text.html.php, meta.embedded.php, source.php.embedded.html, keyword.control.conditional.if.php</scope>
+    <description>PHP: Function array_filter</description>
+</snippet>

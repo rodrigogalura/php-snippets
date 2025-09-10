@@ -11,7 +11,7 @@ if (!function_exists('$1')) {
     }
 }
 ]]></content>
-<tabTrigger>php-func-exists</tabTrigger>
-<description>PHP: function_exists</description>
+<tabTrigger>function_exists</tabTrigger>
+<description>PHP: Function function_exists</description>
 <scope>embedding.php, text.html.php, meta.embedded.php, source.php.embedded.html, keyword.control.conditional.if.php</scope>
 </snippet>

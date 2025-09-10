@@ -10,6 +10,6 @@ describe('$1', function () {
 });
 ]]></content>
 <tabTrigger>pest-desc</tabTrigger>
-<description>Pest: describe</description>
+<description>PestPHP: describe</description>
 <scope>embedding.php, text.html.php, meta.embedded.php, source.php.embedded.html, meta.function-call.identifier.php, variable.function.php</scope>
 </snippet>

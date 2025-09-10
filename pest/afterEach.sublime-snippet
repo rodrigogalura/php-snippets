@@ -10,6 +10,6 @@ afterEach(function() {
 });
 ]]></content>
 <tabTrigger>pest-afterEach</tabTrigger>
-<description>Pest: afterEach</description>
+<description>PestPHP: afterEach</description>
 <scope>embedding.php, text.html.php, meta.embedded.php, source.php.embedded.html, meta.function-call.arguments.php, meta.group.php, meta.function.php, meta.block.php, meta.function-call.arguments.php, meta.group.php, meta.function.php, meta.block.php, meta.function-call.identifier.php, variable.function.php</scope>
 </snippet>

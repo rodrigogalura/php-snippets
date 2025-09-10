@@ -11,6 +11,6 @@ dataset('$1', [
 ]);$0
 ]]></content>
 <tabTrigger>pest-dataset</tabTrigger>
-<description>Pest: dataset</description>
+<description>PestPHP: dataset</description>
 <scope>embedding.php, text.html.php, meta.embedded.php, source.php.embedded.html, meta.function-call.identifier.php, meta.function-call.identifier.php, variable.function.php</scope>
 </snippet>
