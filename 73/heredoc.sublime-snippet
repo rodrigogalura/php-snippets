@@ -6,6 +6,6 @@ ${2:Hello World}
 EOD;
 ]]></content>
     <tabTrigger>heredoc</tabTrigger>
-    <scope>source.php</scope>
+    <scope>embedding.php, text.html.php, meta.embedded.php, source.php.embedded.html, meta.function-call.arguments.php, meta.group.php, meta.function.php, meta.block.php, meta.function-call.arguments.php, meta.group.php, meta.function.php, meta.block.php, meta.function-call.identifier.php, variable.function.php</scope>
     <description>PHP 7.3: Flexible Heredoc</description>
 </snippet>

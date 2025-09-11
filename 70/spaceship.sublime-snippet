@@ -4,5 +4,5 @@ echo \$${1:a} <=> \$${2:b};
 ]]></content>
     <tabTrigger>spaceship</tabTrigger>
     <scope>embedding.php, text.html.php, meta.embedded.php, source.php.embedded.html, meta.class.php, meta.block.php</scope>
-    <description>PHP 7.0 Spaceship Operator</description>
+    <description>PHP 7.0: Spaceship Operator</description>
 </snippet>

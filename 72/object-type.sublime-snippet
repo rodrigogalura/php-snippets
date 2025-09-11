@@ -5,6 +5,6 @@ function ${1:printObject}(object \$obj): void {
 }
 ]]></content>
     <tabTrigger>obj</tabTrigger>
-    <scope>source.php</scope>
+    <scope>embedding.php, text.html.php, meta.embedded.php, source.php.embedded.html, meta.function-call.arguments.php, meta.group.php, meta.function.php, meta.block.php, meta.function-call.arguments.php, meta.group.php, meta.function.php, meta.block.php, meta.function-call.identifier.php, variable.function.php</scope>
     <description>PHP 7.2: Object Type Hint</description>
 </snippet>
