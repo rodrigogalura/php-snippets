@@ -3,6 +3,6 @@
 function ${1:process}((${2:A}&${3:B})|${4:C} \$${5:value}) {}
 ]]></content>
     <tabTrigger>dnf</tabTrigger>
-    <scope>source.php</scope>
-    <description>PHP 8.2 Disjunctive Normal Form Types</description>
+    <scope>embedding.php, text.html.php, meta.embedded.php, source.php.embedded.html, meta.function-call.arguments.php, meta.group.php, meta.function.php, meta.block.php, meta.function-call.arguments.php, meta.group.php, meta.function.php, meta.block.php, meta.function-call.identifier.php, variable.function.php</scope>
+    <description>PHP 8.2: Disjunctive Normal Form Types</description>
 </snippet>

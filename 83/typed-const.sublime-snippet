@@ -5,6 +5,6 @@ class ${1:Foo} {
 }
 ]]></content>
     <tabTrigger>tconst</tabTrigger>
-    <scope>source.php</scope>
-    <description>PHP 8.3 Typed Class Constants</description>
+    <scope>embedding.php, text.html.php, meta.embedded.php, source.php.embedded.html, meta.function-call.arguments.php, meta.group.php, meta.function.php, meta.block.php, meta.function-call.arguments.php, meta.group.php, meta.function.php, meta.block.php, meta.function-call.identifier.php, variable.function.php</scope>
+    <description>PHP 8.3: Typed Class Constants</description>
 </snippet>

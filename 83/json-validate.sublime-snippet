@@ -5,6 +5,6 @@ if (json_validate(\$${1:input})) {
 }
 ]]></content>
     <tabTrigger>jvalid</tabTrigger>
-    <scope>source.php</scope>
-    <description>PHP 8.3 json_validate()</description>
+    <scope>embedding.php, text.html.php, meta.embedded.php, source.php.embedded.html, meta.function-call.arguments.php, meta.group.php, meta.function.php, meta.block.php, meta.function-call.arguments.php, meta.group.php, meta.function.php, meta.block.php, meta.function-call.identifier.php, variable.function.php</scope>
+    <description>PHP 8.3: Function json_validate()</description>
 </snippet>

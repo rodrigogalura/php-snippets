@@ -3,6 +3,6 @@
 \$${1:username} = \$${2:user}?->${3:profile}?->${4:username};
 ]]></content>
     <tabTrigger>?-></tabTrigger>
-    <scope>source.php</scope>
-    <description>PHP 8.0 Nullsafe Operator</description>
+    <scope>embedding.php, text.html.php, meta.embedded.php, source.php.embedded.html, meta.function-call.arguments.php, meta.group.php, meta.function.php, meta.block.php, meta.function-call.arguments.php, meta.group.php, meta.function.php, meta.block.php, meta.function-call.identifier.php, variable.function.php</scope>
+    <description>PHP 8.0: Nullsafe Operator</description>
 </snippet>
