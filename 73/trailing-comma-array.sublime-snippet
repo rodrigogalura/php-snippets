@@ -1,13 +1,11 @@
 <snippet>
     <content><![CDATA[
-readonly class ${1:UserData} {
-    public function __construct(
-        public string \$${2:name},
-        public int \$${3:age}
-    ) {}
-}
+\$array = [
+    ${1:'first'} => ${2:value},
+    ${3:'second'} => ${4:value},
+];
 ]]></content>
-    <tabTrigger>readonly-class</tabTrigger>
+    <tabTrigger>trailing-comma-array</tabTrigger>
     <scope>embedding.php, text.html.php, meta.embedded.php, source.php.embedded.html, meta.function-call.arguments.php, meta.group.php, meta.function.php, meta.block.php, meta.function-call.arguments.php, meta.group.php, meta.function.php, meta.block.php, meta.function-call.identifier.php, variable.function.php</scope>
-    <description>PHP 8.2: Readonly Class</description>
+    <description>PHP 7.2: Trailing Comma in Arrays</description>
 </snippet>

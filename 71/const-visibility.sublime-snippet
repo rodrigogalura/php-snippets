@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+class ${1:MyClass} {
+    ${2:public} const ${3:CONSTANT} = ${4:value};
+}
+]]></content>
+    <tabTrigger>const-visibility</tabTrigger>
+    <scope>embedding.php, text.html.php, meta.embedded.php, source.php.embedded.html, meta.class.php, meta.block.php</scope>
+    <description>PHP 7.1: Class Constant Visibility</description>
+</snippet>
