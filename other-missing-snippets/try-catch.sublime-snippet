@@ -1,0 +1,17 @@
+<snippet>
+<!--
+    Fields: $field_number or ${field_number:default_text}, e.g. $1 or ${1:name}
+    Variables: $variable or ${variable/regex/replace/flags}, e.g. $TM_FILEPATH
+    More: https://www.sublimetext.com/docs/completions.html#snippets
+-->
+<content><![CDATA[
+try {
+    ${2://}
+} catch (e) {
+    ${1:console.log(e)};
+}$0
+]]></content>
+<tabTrigger>try-catch</tabTrigger>
+<description>JS: Try Catch</description>
+<scope>source.js, meta.function.js, meta.block.js, meta.function.js, meta.block.js, meta.try.js, keyword.control.exception.try.js</scope>
+</snippet>
